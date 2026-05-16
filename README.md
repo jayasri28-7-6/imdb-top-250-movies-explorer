@@ -66,11 +66,11 @@ streamlit run movies.py
 
 
 
-## 🚀 Future Improvements
+## Future Improvements
 
-* 📈 Add charts and visualizations
-* 🎭 Filter by genre and year
-* ⭐ Add movie details page
-* 🌍 Deploy online
+* Add charts and visualizations
+* Filter by genre and year
+* Add movie details page
+* Deploy online
 
 

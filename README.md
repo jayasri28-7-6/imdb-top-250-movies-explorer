@@ -2,24 +2,24 @@
 
 A Python-based web application that allows users to explore, analyze, and download IMDb Top 250 movies using Streamlit and Pandas.
 
-## 📌 Features
+## Features
 
-* 🎥 Displays IMDb Top 250 movies
-* 🔍 Search and filter movies
-* 📊 Analyze ratings and rankings
-* 💾 Download movie dataset as CSV
-* 🌐 Interactive web interface using Streamlit
+* Displays IMDb Top 250 movies
+* Search and filter movies
+* Analyze ratings and rankings
+* Download movie dataset as CSV
+* Interactive web interface using Streamlit
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Streamlit
 * Pandas
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 project/
@@ -27,7 +27,7 @@ project/
 │── data/
 ```
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
@@ -44,21 +44,21 @@ pip install streamlit pandas
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 streamlit run movies.py
 ```
 
 
-## 🌐 Output
+## Output
 
 * Opens automatically in your browser
 * Displays IMDb Top 250 movies in a clean UI
 * Allows filtering and downloading data
 
 
-## 📊 Example Features
+## Example Features
 
 * View top-rated movies
 * Filter by rating or title
